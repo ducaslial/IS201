@@ -1,0 +1,44 @@
+h1{
+    font-family: sans-serif;
+    color: white;
+    font-weight: 200;
+}
+
+span{
+    font-family: sans-serif;
+    color: white;
+    font-style: italic;
+}
+
+h2{
+    text-align: left;
+    color: navy
+}
+
+ol{
+    font-family: sans-serif;
+    font-weight: 100;
+    list-style: none;
+}
+
+ul{
+    list-style: disc;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+    font-family:inherit;
+}
+
+a{
+    color: navy;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-size: 25px;
+}
+
